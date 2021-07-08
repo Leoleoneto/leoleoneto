@@ -14,6 +14,7 @@ I'm **Leonel Neto**! I'm a web development student and a technology enthusiast.
 - 🛠 &nbsp; Currently working in projects with HTML, CSS and Javascript.
 - 📫 &nbsp; You can reach me at leonelneto@protonmail.com or at my [Linkedin!](https://www.linkedin.com/in/leonel-neto/)
 
+### Tech and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--
 ### My Absolute Favorites:
