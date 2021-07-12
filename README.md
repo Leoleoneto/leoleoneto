@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonel-neto/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/leoleoneto_/)
 
-I'm **Leonel Neto**! I'm a web development student and a technology enthusiast.  
+I'm a **Web Development** student and a technology enthusiast.  
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
 
