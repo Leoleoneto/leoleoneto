@@ -5,7 +5,7 @@
 
 I'm a **Web Development** student and a technology enthusiast.  
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+<img align="right" height="250" width="475" alt="" src="https://camo.githubusercontent.com/1451bf0ff15e0ec07d6d44bb5a0bee7884a96c174a6213b1e153673f4f866be1/68747470733a2f2f6265636f64652e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f31302f506f722d7175652d757361722d4a6176615363726970742e676966" />
 
 ### A little more about me:
 
