@@ -1,20 +1,21 @@
-# Hi There! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<!--# Hi There!-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonel-neto/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/leoleoneto_/)
 
-I'm a **Web Development** student and a technology enthusiast.  
+**Tecnologias e seus porques**   
+<img align="right" height="326" width="439" alt="" src="https://user-images.githubusercontent.com/66287569/173242323-7b223fe5-7e33-4d03-a270-4c4bf091f670.png">
 
-<img align="right" height="250" width="475" alt="" src="https://camo.githubusercontent.com/1451bf0ff15e0ec07d6d44bb5a0bee7884a96c174a6213b1e153673f4f866be1/68747470733a2f2f6265636f64652e636f6d2e62722f77702d636f6e74656e742f75706c6f6164732f323031362f31302f506f722d7175652d757361722d4a6176615363726970742e676966" />
 
-### A little more about me:
+### Sobre mim:
 
-- 🌎 &nbsp; I'm from Ilhéus Bahia Brazil.
-- ✨ &nbsp; Working with computer technician.
-- 🛠 &nbsp; Currently working in projects with HTML, CSS and Javascript.
-- 📫 &nbsp; You can reach me at leonelneto@protonmail.com or at my [Linkedin!](https://www.linkedin.com/in/leonel-neto/)
+- 🌎 &nbsp; Bahia Brazil
+- ✨ &nbsp; Técnico em informática
+- 🛠 &nbsp; Desenvolvedor Front End | sass e java script
+- 💻 &nbsp; Estudando React
+- 📫 &nbsp; Tem algo pra mim? leonelneto@protonmail.com  
 
-### Tech and Tools:
+<!--### Tech and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40px">
 <!--
 ### My Absolute Favorites:
