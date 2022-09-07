@@ -10,7 +10,7 @@
 ### Sobre mim:
 
 - 🌎 &nbsp; Bahia Brazil
-- ✨ &nbsp; Técnico em informática
+- ✨ &nbsp; Técnico em Informática e Microinformática
 - 🛠 &nbsp; Desenvolvedor Front End | sass e java script
 - 💻 &nbsp; Estudando React
 - 📫 &nbsp; Tem algo pra mim? leonelneto@protonmail.com  
