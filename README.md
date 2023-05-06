@@ -2,6 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonel-neto/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_leoleoneto/)
+     	<a href ="mailto:leonelneto@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 
 **Tecnologias e seus porques**   
 <img align="right" height="326" width="439" alt="" src="https://user-images.githubusercontent.com/66287569/173242323-7b223fe5-7e33-4d03-a270-4c4bf091f670.png">
@@ -12,8 +13,8 @@
 - 🌎 &nbsp; Bahia Brazil
 - ✨ &nbsp; Técnico em Informática e Microinformática
 - 🛠 &nbsp; Desenvolvedor Front End | sass e java script
-- 💻 &nbsp; Estudando React
-- 📫 &nbsp; Tem algo pra mim? leonelneto@protonmail.com  
+<!-- 💻 &nbsp; Estudando React
+- 📫 &nbsp; Tem algo pra mim? leonelneto@protonmail.com --> 
 
 <!--### Tech and Tools:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass" width="40px">
