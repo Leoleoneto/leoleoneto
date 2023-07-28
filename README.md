@@ -1,8 +1,8 @@
-<!--# Hi There!-->
+<!--# Hi There!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leonel-neto/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_leoleoneto/)
-     	<a href ="mailto:leonelneto@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_leoleoneto/)-->
+ <a href ="mailto:leonelneto@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 
 **Tecnologias e seus porques**   
 <img align="right" height="326" width="439" alt="" src="https://user-images.githubusercontent.com/66287569/173242323-7b223fe5-7e33-4d03-a270-4c4bf091f670.png">
