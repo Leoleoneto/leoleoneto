@@ -4,7 +4,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_leoleoneto/)-->
  <a href ="mailto:leonelneto@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a>
 
-**Tecnologias e seus por ques**   
+**Tecnologias e seus "por ques"**   
 <img align="right" height="326" width="439" alt="" src="https://user-images.githubusercontent.com/66287569/173242323-7b223fe5-7e33-4d03-a270-4c4bf091f670.png">
 
 
