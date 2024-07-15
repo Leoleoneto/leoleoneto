@@ -12,7 +12,7 @@
 
 - 🌎 &nbsp; Bahia Brazil
 - ✨ &nbsp; Técnico em Informática e Microinformática
-- 🛠 &nbsp; Desenvolvedor Front End | sass e java script
+- 🛠 &nbsp; Desenvolvedor
 <!-- 💻 &nbsp; Estudando React
 - 📫 &nbsp; Tem algo pra mim? leonelneto@protonmail.com --> 
 
